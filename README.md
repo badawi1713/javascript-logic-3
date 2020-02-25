@@ -1,7 +1,7 @@
 # javascript-logic-3
 Fourth assignment from Arkademy Bootcamp (24/02/2020). By Dzaky Badawi
 
-### All of these javascript files can be executed by this command below or can be run on es6console.com
+### All of these javascript files can be executed by this command below (if you already installed node.js on your computer) or it can be run on es6console.com
 ```
 node [file_name]
 ```
